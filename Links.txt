@@ -1,0 +1,20 @@
+									Deployed
+Project URL : http://pod2cohort69cde.s3-website-us-east-1.amazonaws.com/
+
+								Individual Microservices
+loginserviceUrl = "http://authcorporatepod2cohort69-env.eba-iptzer57.us-east-1.elasticbeanstalk.com/authmicroservice"
+offerserviceUrl = "http://Offerscorporatepod2cohort69-env.eba-uu56spke.us-east-1.elasticbeanstalk.com/offermicroservice"
+employeeserviceUrl = "http://Employeecorporatepod2cohort69-env.eba-yeim9r3i.us-east-1.elasticbeanstalk.com/employee"
+pointsserviceUrl = "http://Pointcorporatepod2cohort69-env.eba-9xyhqyp7.us-east-1.elasticbeanstalk.com/points"
+
+								      Swagger :
+Point : http://pointcorporatepod2cohort69-env.eba-9xyhqyp7.us-east-1.elasticbeanstalk.com/points/swagger-ui.html
+Auth  : http://authcorporatepod2cohort69-env.eba-iptzer57.us-east-1.elasticbeanstalk.com/authmicroservice/swagger-ui.html
+Offer  :http://offerscorporatepod2cohort69-env.eba-uu56spke.us-east-1.elasticbeanstalk.com/swagger-ui.html
+Employee : http://employeecorporatepod2cohort69-env.eba-yeim9r3i.us-east-1.elasticbeanstalk.com/swagger-ui.html
+
+
+								H2 : jdbc:h2:mem:testdb
+Auth : http://authcorporatepod2cohort69-env.eba-iptzer57.us-east-1.elasticbeanstalk.com/authmicroservice/h2
+Employee : http://Employeecorporatepod2cohort69-env.eba-yeim9r3i.us-east-1.elasticbeanstalk.com/h2
+
